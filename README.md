@@ -37,7 +37,7 @@ git clone https://github.com/GHEPT/Dino-Game.git
 
 ## Screenshot
 
-![Dino Game](https://example.com/dino-game-screenshot.png)
+![Dino Game](https://i.imgur.com/pkGbZcd.png)
 
 ## Contribuição
 
