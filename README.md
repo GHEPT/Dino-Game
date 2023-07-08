@@ -34,10 +34,11 @@ git clone https://github.com/GHEPT/Dino-Game.git
 3. Pressione a tecla de espaço para iniciar o jogo.
 4. Use a tecla de espaço para fazer o dinossauro pular e evitar os obstáculos.
 5. Tente sobreviver o máximo de tempo possível e marque muitos pontos!
+6. Aproveite o áudio e se empolgue nas metas!
 
 ## Screenshot
 
-![Dino Game](https://i.imgur.com/pkGbZcd.png)
+![Dino Game](https://i.imgur.com/kDdsrTv.png)
 
 ## Contribuição
 
